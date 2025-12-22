@@ -1,0 +1,47 @@
+baseURL: "https://ad8fd.com/"
+languageCode: "en-us"
+title: "AD8FD"
+theme: "PaperMod"
+
+pagination:
+  pagerSize: 10
+
+params:
+  defaultTheme: "light"
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  TocOpen: false
+
+  homeInfoParams:
+    Title: "AD8FD"
+    Content: "Logs, notes, and stories from my amateur radio DXpeditions."
+
+menu:
+  main:
+    - identifier: dxpeditions
+      name: DXpeditions
+      url: /dxpeditions/
+      weight: 1
+
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 2
+
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 3
+
+    - identifier: qsl
+      name: QSL / Contact
+      url: /qsl/
+      weight: 4
+
+taxonomies:
+  category: categories
+  tag: tags
