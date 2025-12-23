@@ -2,7 +2,7 @@
 date: '2025-12-22T11:40:15-05:00'
 draft: false
 title: 'Standing Up This Site'
-summary: "How I’m hosting my DXpedition stories using a static site stack instead of a generic blog platform."
+summary: "How I’m hosting my amateur radio stories using a static site stack instead of a generic blog platform."
 tags:
   - meta
   - hugo
@@ -10,7 +10,7 @@ tags:
   - papermod
 ---
 
-I wanted a home for my DXpedition stories that was:
+I wanted a home for my amateur radio stories that was:
 
 - Fast and simple
 - Text-first, with a few photos
