@@ -6,8 +6,11 @@ title: 'QSL'
 
 ## QSL Policy
 
-- **LoTW:** Yes, all DXpedition QSOs will be uploaded.
-- **Club Log:** Yes, all DXpedition QSOs will be uploaded.
+- **LoTW:** Yes
+- **Club Log:** Yes
+- **QRZ:** Yes
+- **POTA:** Yes, for QSOs made in the park
+- **eQSL:** No
 - **Bureau:** No
 - **Direct:** No
 
