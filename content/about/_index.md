@@ -8,4 +8,4 @@ Hello, I am Brian Bathe, amateur radio operator AD8FD.
 
 I enjoy Chasing DX & Portable operating.
 
-This site is where I collect notes and stories from my DXpeditions, along with occasional posts about radios, antennas, and operating from the field.
+This site is where I collect notes and stories from my adventures, along with occasional posts about radios, antennas, and operating from the field.
