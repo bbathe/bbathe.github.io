@@ -13,8 +13,7 @@ params:
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
-  ShowToc: true
-  TocOpen: false
+  ShowToc: false
 
   homeInfoParams:
     Title: "AD8FD"
