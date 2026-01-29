@@ -14,7 +14,7 @@ tags:
 
 My 2026 DXpedition to **Eleuthera Island, Bahamas**.
 
-- **Callsign:** Not assigned yet
+- **Callsign:** C6AFD
 - **Dates:** March 24, 2026 to March 31, 2026
 - **Grid:** FL14
 - **Focus:**
