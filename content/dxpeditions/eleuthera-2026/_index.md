@@ -16,7 +16,7 @@ My 2026 DXpedition to **Eleuthera Island, Bahamas**.
 
 - **Callsign:** C6AFD
 - **Dates:** March 24, 2026 to March 31, 2026
-- **Grid:** FL14
+- **Grid:** FL14wu
 - **Focus:**
   - SSB & FT8 on 40–10m
   - CQ WPX SSB
