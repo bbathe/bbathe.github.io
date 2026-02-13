@@ -15,7 +15,7 @@ Here’s the sequence that worked for me.
 
 ### LoTW Comes First
 
-Being able to confirm QSOs in LoTW is critical, so that’s where I start. It can also take time for ARRL to review the request, approve it, and issue the certificate, so getting this done early avoids delays later.
+Being able to confirm QSOs in [LoTW](https://lotw.arrl.org/) is critical, so that’s where I start. It can also take time for ARRL to review the request, approve it, and issue the certificate, so getting this done early avoids delays later.
 
 I requested the new certificate in TQSL and waited for the automated email asking for proof. Once I replied and the certificate was issued, I imported it on the same computer I used for the request. After that, I exported the `.p12` file so I can bring it on whichever laptop comes with me on the trip.
 
@@ -23,7 +23,7 @@ It’s not exciting work, but fixing LoTW problems from the field is worse.
 
 ### Add the Callsign to POTA
 
-Next stop was POTA. Under *My Account*, I added the new callsign. Quick and easy. No verification needed.
+Next stop was [POTA](https://parksontheair.com/). Under *My Account*, I added the new callsign. Quick and easy. No verification needed.
 
 Some of my portable trips overlap with parks, so it’s better to have this sorted ahead of time.
 
@@ -45,7 +45,7 @@ This ensures the new callsign has a proper identity on its own, while still bein
 
 ### Club Log, for the Log Uploads That Matter
 
-Finally, I added the callsign under *Settings → Callsigns* in Club Log.
+Finally, I added the callsign under *Settings → Callsigns* in [Club Log](https://clublog.org/).
 
 ### Wrapped Up
 
