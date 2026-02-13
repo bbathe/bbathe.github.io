@@ -2,7 +2,7 @@
 date: '2026-02-13T06:32:22-05:00'
 draft: false
 title: "Additional Callsigns"
-summary: "How to add your additional callsigns across all the various system we use in amateur radio"
+summary: "How to add your additional callsigns across all the various system we use in amateur radio."
 tags:
   - planning
 ---
