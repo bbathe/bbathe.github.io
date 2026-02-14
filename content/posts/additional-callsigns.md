@@ -29,7 +29,7 @@ Some of my portable trips overlap with parks, so it’s better to have this sort
 
 ### Update the Places People Will Look You Up
 
-Once you touch [QRZ](https://www.qrz.com/), the whole ecosystem starts noticing — [DX‑World](https://www.dx-world.net/), [Daily DX](https://www.dailydx.com/), [DX News](https://dxnews.com/) — all of it. So timing matters.
+Once you touch [QRZ](https://www.qrz.com/), the whole ecosystem starts noticing: [DX‑World](https://www.dx-world.net/), [Daily DX](https://www.dailydx.com/), [DX News](https://dxnews.com/), all of it. So timing matters.
 
 - ### Suffix/Prefix Callsigns  
   For operating variations like `/P`, `/4`, `/VE3`, or similar, these get added under:  
@@ -49,4 +49,4 @@ Finally, I added the callsign under *Settings → Callsigns* in [Club Log](https
 
 ### Wrapped Up
 
-It’s not glamorous, but getting a new callsign integrated everywhere is just part of the prep work—same category as booking houses, sorting flights, or confirming rental cars. Now that it’s done, the next time this callsign goes on the air, everything should just work.
+It’s not glamorous, but getting a new callsign integrated everywhere is just part of the prep work: same category as booking houses, sorting flights, or confirming rental cars. Now that it’s done, the next time this callsign goes on the air, everything should just work.
