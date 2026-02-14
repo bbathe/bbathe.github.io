@@ -4,7 +4,6 @@ draft: false
 title: 'Standing Up This Site'
 summary: "How I’m hosting my amateur radio stories using a static site stack instead of a generic blog platform."
 tags:
-  - meta
   - hugo
   - github-pages
   - papermod

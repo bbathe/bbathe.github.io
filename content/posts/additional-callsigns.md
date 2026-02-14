@@ -41,7 +41,7 @@ Once you touch [QRZ](https://www.qrz.com/), the whole ecosystem starts noticing 
   If the callsign is actually *issued to you*, it goes under:  
   **Account → Managed Callsigns**
 
-This ensures the new callsign has a proper identity on its own, while still being tied to your main account for logging and profile management.
+  This ensures the new callsign has a proper identity on its own, while still being tied to your main account for logging and profile management.
 
 ### Club Log, for the Log Uploads That Matter
 
