@@ -22,7 +22,7 @@ This bag supports station control, logging, and digital operation.
 Laptop  
 RigExpert Stick antenna analyzer  
 Heil Proset 7 headset with IC-705 adapter  
-PTT foot switch and thumb switch
+PTT foot switch
 
 ## Checked luggage, Pelican 1615
 This case carries all antenna and site infrastructure for the main station.
@@ -35,9 +35,9 @@ Hand tools and general station support gear
 ## POTA field kit
 The POTA kit is coming with me, I hope to activate one of the parks on Eleuthera while I'm there.
 
-IC-705 hand mic & earbuds
-Small LiFePO4 battery
-Portable vertical antenna with carbon mast
+IC-705 hand mic & earbuds  
+Small LiFePO4 battery  
+Portable vertical antenna with carbon mast  
 Lightweight coax and basic logging materials
 
 ## Why this setup
