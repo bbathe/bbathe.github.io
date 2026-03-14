@@ -17,4 +17,4 @@ title: 'QSL'
 ## Contact
 
 - **Email:** bbathe@willyboy.com
-- **X:** https://x.com/bbathe
+- **X:** [bbathe](https://x.com/bbathe)
