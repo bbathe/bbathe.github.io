@@ -9,13 +9,13 @@ tags:
 ---
 With departure approaching quickly, the equipment plan is finalized and everything has been assembled, powered, and is currently operating at home. The emphasis is on reliability, airline survivability, and keeping the weight & number of bags to a reasonable amount.
 
-## Carry on, (Pelican)[https://www.colorcase.com/] 1535
+## Carry on, [Pelican](https://www.colorcase.com/) 1535
 This case contains the core station electronics and anything I am not willing to place in checked baggage.
 
 Icom IC-705 transceiver  
 JUMA 1000 amplifier  
 
-## Personal item, (GORUCK)[https://www.goruck.com/] GR1 21L
+## Personal item, [GORUCK](https://www.goruck.com/) GR1 21L
 This bag supports station control, and logging.
 
 Laptop  
@@ -23,7 +23,7 @@ RigExpert Stick antenna analyzer
 Heil Proset 7 headset with IC-705 adapter  
 All the connecting cables for the station  
 
-## Checked luggage, (Pelican)[https://www.colorcase.com/] 1615
+## Checked luggage, [Pelican](https://www.colorcase.com/) 1615
 This case carries all antenna and site infrastructure for the main station.
 
 Spiderbeam 10 meter mast with guying and stakes  
