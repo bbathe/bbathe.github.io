@@ -1,8 +1,8 @@
 ---
 date: '2026-03-30T18:50:00-04:00'
 draft: false
-title: 'Eleuthera 2026 Recap'
-summary: "DXpedition report"
+title: 'Recap'
+summary: "Final DXpedition report"
 tags:
   - recap
 ---

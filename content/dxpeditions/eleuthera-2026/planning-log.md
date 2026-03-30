@@ -1,7 +1,7 @@
 ---
 date: '2025-12-22T12:02:53-05:00'
 draft: false
-title: "Eleuthera 2026 - Planning"
+title: "Planning"
 summary: "The origin story and early logistics for my first DXpedition."
 tags:
   - planning
