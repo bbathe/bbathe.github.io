@@ -1,13 +1,11 @@
 ---
 date: '2026-03-30T18:50:00-04:00'
 draft: false
-title: 'Recap'
+title: 'Eleuthera 2026 Recap'
 summary: "DXpedition report"
 tags:
   - recap
 ---
-## Eleuthera 2026 Recap
-
 Tonight is my final evening in Eleuthera. The station is already down and packed, with an early departure tomorrow morning, making this a good moment to capture a short recap while everything is still fresh.
 
 Operations began on March 24, with the first QSO logged at 1930 UTC. Early operation focused on digital modes, and 15 meters came alive after 2330 UTC with strong JA activity. The band remained productive into the next day, and operations wrapped up around 0200 UTC.
