@@ -6,7 +6,8 @@ summary: "DXpedition report"
 tags:
   - recap
 ---
-##Eleuthera 2026 Recap
+## Eleuthera 2026 Recap
+
 Tonight is my final evening in Eleuthera. The station is already down and packed, with an early departure tomorrow morning, making this a good moment to capture a short recap while everything is still fresh.
 
 Operations began on March 24, with the first QSO logged at 1930 UTC. Early operation focused on digital modes, and 15 meters came alive after 2330 UTC with strong JA activity. The band remained productive into the next day, and operations wrapped up around 0200 UTC.
@@ -19,7 +20,7 @@ Conditions changed on March 27. Early 40 meter FT8 operation was challenging, wi
 
 March 28 opened with an R1 solar flare having occurred earlier, and conditions reflected it. Checks around 0330 UTC showed extremely high noise levels across the bands. After resuming around 1130 UTC, 40, 20, and 15 meters were worked until roughly 1400 UTC before switching back to digital. Noise levels remained high throughout the day, likely due to solar conditions. During CQ WPX SSB, I made an unintentional self‑spot and realized it about 15 minutes later. The log was submitted as a checklog on Saturday afternoon, and I stayed out of the contest for the remainder of the weekend.
 
-March 29 produced one of the highlights of the trip. Overnight, I received an email from JR7HAN asking to try 20 meter JA operation around 1200 UTC. I started a bit early at 1100 UTC and worked a large number of Japanese stations, ultimately QSYing to 14086 to give everyone the best opportunity for a QSO. At peak, three FT8 streams were running simultaneously. Operations ended abruptly around 1800 UTC when commercial power was lost for the rest of the day.
+March 29 produced one of the highlights of the trip. Overnight, I received an email from [JR7HAN](https://www.qrz.com/db/JR7HAN) asking to try 20 meter JA operation around 1200 UTC. I started a bit early at 1100 UTC and worked a large number of Japanese stations, ultimately QSYing to 14086 to give everyone the best opportunity for a QSO. At peak, three FT8 streams were running simultaneously. Operations ended abruptly around 1800 UTC when commercial power was lost for the rest of the day.
 
 March 30 concluded the trip with a POTA activation of BS‑0044 at the Queen’s Baths. It is a spectacular location, and the Atlantic was putting on a dramatic show. The activation was physically demanding, with rain on and off throughout the day, but the required 13 contacts were completed. Teardown happened completely soaked. Back at the QTH, FT8 and FT4 operation resumed briefly around 1900 UTC before final station teardown. The last QSO was logged at 2054 UTC.
 
