@@ -13,7 +13,7 @@ With departure approaching quickly, the equipment plan is finalized and everythi
 This case contains the core station electronics and anything I am not willing to place in checked baggage.
 
 Icom IC-705 transceiver  
-JUMA 1000 amplifier  
+JUMA PA-1000+ amplifier  
 
 ## Personal item, [GORUCK](https://www.goruck.com/) GR1 21L
 This bag supports station control, and logging.
@@ -32,7 +32,7 @@ Coaxial feed lines and baluns
 Hand tools and general station support gear 
 
 ## Why this setup
-The IC-705 paired with the JUMA 1000 provides an excellent balance of portability and performance for travel based operating.
+The IC-705 paired with the JUMA PA-1000+ provides an excellent balance of portability and performance for travel based operating.
 
 The multiband vertical covering 40m through 10m was selected to focus effort where it matters most for CQ WPX SSB, while remaining fast to deploy and tolerant of limited space. A single vertical with dedicated elements keeps setup time short, minimizes mechanical complexity, and allows quick band changes during the contest.
 
