@@ -12,11 +12,11 @@ Travel logistics went largely as planned. The station was divided into three bag
 
 ![Luggage](luggage.jpeg)
 
-Airline and airport handling were uneventful, I recieved quesions about all the radio equipment during security screening, but ultimately passed through smoothly. Once on Eleuthera, the car rental was waiting for me and travel to the cottage was straightforward, and all gear arrived intact.
+Airline and airport handling were uneventful. I received questions about the radio equipment during security screening, but ultimately passed through smoothly. Once on Eleuthera, the rental car was waiting, transit to the cottage was straightforward, and all gear arrived intact.
 
 ## First Look at the QTH
 
-Upon arrival, the first order of business was assessing the available space. The cottage had reasonable outdoor space, but like many rental properties, antenna placement options were more constrained than they first appeared. Power lines were present nearby, and the house itself sat closer to the usable antenna area than ideal.
+Upon arrival, the first order of business was assessing the available space. The cottage had reasonable outdoor area, but like many rental properties, antenna placement options were more constrained than they first appeared. Power lines were present nearby, and the house itself sat closer to the usable antenna area than ideal.
 
 At this point, the goal was simply to get everything assembled and on the air, then adjust as necessary based on real‑world behavior rather than assumptions.
 
@@ -32,7 +32,7 @@ Over the following day, the antenna was relocated farther from the building, ult
 
 ## Station Assembly
 
-Initial station assembly went smoothly. The IC‑705, JUMA PA‑1000+, and support equipment were up and running quickly, with all interconnections behaving exactly as tested at home. From opening the first case to a powered‑on station took about an hour.
+With the antenna in place, station assembly went smoothly. The IC‑705, JUMA PA‑1000+, and support equipment were up and running quickly, with all interconnections behaving exactly as tested at home. From opening the first case to a powered‑on station took about an hour.
 
 ![Station](radio.jpeg)
 
