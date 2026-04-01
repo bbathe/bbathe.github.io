@@ -37,5 +37,3 @@ The radio configuration and logging environment were already dialed in before de
 ## First QSOs
 
 With the station operational, initial contacts came quickly. Digital modes were used first to confirm transmit and receive performance, and early results were encouraging. The combination of location, antenna, and timing produced strong responses on the air, confirming that the basic setup was sound.
-
-By the end of the first operating day, it was clear that the station was not just functional, but capable of sustaining long operating sessions and handling pileups efficiently.
