@@ -26,10 +26,6 @@ The multiband vertical for 40, 20, 15, and 10 meters was deployed on a Spiderbea
 
 ![Antenna](antenna.jpeg)
 
-This first placement worked well enough to get on the air immediately, but it quickly became clear that antenna distance from the house would be an important variable. RF made its presence known inside the cottage, and while things worked, it was obvious improvements were possible.
-
-Over the following day, the antenna was relocated farther from the building, ultimately ending up roughly 90 feet from the cottage. This significantly reduced RF issues, improved usability on all bands, and turned out to be one of the most important setup decisions of the trip.
-
 ## Station Assembly
 
 With the antenna in place, station assembly went smoothly. The IC‑705, JUMA PA‑1000+, and support equipment were up and running quickly, with all interconnections behaving exactly as tested at home. From opening the first case to a powered‑on station took about an hour.
@@ -43,9 +39,3 @@ The radio configuration and logging environment were already dialed in before de
 With the station operational, initial contacts came quickly. Digital modes were used first to confirm transmit and receive performance, and early results were encouraging. The combination of location, antenna, and timing produced strong responses on the air, confirming that the basic setup was sound.
 
 By the end of the first operating day, it was clear that the station was not just functional, but capable of sustaining long operating sessions and handling pileups efficiently.
-
-## Looking Back
-
-In hindsight, the biggest lesson from the travel and setup phase was the value of flexibility. While the equipment and packing plan worked exactly as intended, real‑world antenna placement required adjustment once RF realities became apparent.
-
-Taking the time to move the antenna and clean up RF issues early paid dividends for the rest of the operation. Once those changes were made, the station required very little attention, allowing nearly all effort to be focused on operating rather than troubleshooting.
