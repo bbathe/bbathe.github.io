@@ -4,8 +4,8 @@ draft: false
 title: 'Travel & Station Setup'
 summary: "Getting to the QTH and station setup"
 tags:
-  - packing
   - setup
+  - operating
 ---
 
 Travel logistics went largely as planned. The station was divided into three bags: a Pelican 1535 carry‑on for all critical electronics, a small personal bag for the laptop and accessories, and a Pelican 1615 checked bag for antennas, mast, coax, and tools. Keeping the radio and amplifier with me eliminated any anxiety about loss or damage in transit.
