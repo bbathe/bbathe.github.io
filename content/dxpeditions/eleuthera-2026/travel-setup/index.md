@@ -1,5 +1,5 @@
 ---
-date: '2026-04-01T10:07:55-04:00'
+date: '2026-03-24T17:07:55-04:00'
 draft: false
 title: 'Travel & Station Setup'
 summary: "Getting to the QTH and station setup"
@@ -7,15 +7,12 @@ tags:
   - packing
   - setup
 ---
-This post was written after the fact and captures the travel, arrival, and initial station setup for my first DXpedition to Eleuthera Island, Bahamas.
-
-## Travel to Eleuthera
 
 Travel logistics went largely as planned. The station was divided into three bags: a Pelican 1535 carry‑on for all critical electronics, a small personal bag for the laptop and accessories, and a Pelican 1615 checked bag for antennas, mast, coax, and tools. Keeping the radio and amplifier with me eliminated any anxiety about loss or damage in transit.
 
 ![Luggage](luggage.jpeg)
 
-Airline and airport handling were uneventful, and none of the radio equipment raised concerns during security screening. Once on Eleuthera, the car rental was waiting for me and travel to the cottage was straightforward, and all gear arrived intact.
+Airline and airport handling were uneventful, I recieved quesions about all the radio equipment during security screening, but ultimately passed through smoothly. Once on Eleuthera, the car rental was waiting for me and travel to the cottage was straightforward, and all gear arrived intact.
 
 ## First Look at the QTH
 
