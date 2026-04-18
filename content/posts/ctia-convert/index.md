@@ -33,7 +33,7 @@ The project breaks down into two parts:
 1. CTIA headset conversion circuit
 2. IC‑705 interface cabling
 
-The circuit is housed in a compact Hammond 1455C801BU extruded aluminum enclosure, which is small enough for portable use but rugged enough for travel.  Cabling could be created for any radio in the future.
+The circuit is housed in a compact [Hammond 1455C801BU](https://www.hammfg.com/part/1455C801BU) extruded aluminum enclosure, which is small enough for portable use but rugged enough for travel.  Cabling could be created for any radio in the future.
 
 ---
 
@@ -79,7 +79,7 @@ Below is the cable wiring reference for the IC‑705 connections used in this bu
 
 ### Enclosure and Construction
 
-Everything is housed in a [Hammond 1455C801BU](https://www.hammfg.com/part/1455C801BU) extruded aluminum enclosure. This enclosure was chosen because:
+Everything is housed in a Hammond extruded aluminum enclosure. This enclosure was chosen because:
 
 - It is compact and backpack friendly
 - It provides excellent RF shielding
