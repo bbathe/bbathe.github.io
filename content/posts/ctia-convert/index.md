@@ -24,8 +24,6 @@ The result is a small converter box that:
 - Provides microphone bias and PTT handling
 - Allows PTT to be controlled by an external foot pedal instead of an inline button
 
----
-
 ### Overall System Architecture
 
 The project breaks down into two parts:
@@ -34,8 +32,6 @@ The project breaks down into two parts:
 2. IC‑705 interface cabling
 
 The circuit is housed in a compact [Hammond 1455C801BU](https://www.hammfg.com/part/1455C801BU) extruded aluminum enclosure, which is small enough for portable use but rugged enough for travel.  Cabling could be created for any radio in the future.
-
----
 
 ### CTIA Headset Conversion
 
