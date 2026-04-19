@@ -82,7 +82,7 @@ Everything is housed in a Hammond extruded aluminum enclosure. This enclosure wa
 - End plates are easy to customize for connectors
 - It stands up well to travel and field use
 
-Since the CTIA stadard uses Mic + Bias voltage on the shield, and not Ground like all the other jacks, I had to create a plastic end plate to keep it electrically isolated.
+Since the CTIA standard uses Mic + Bias voltage on the shield, and not Ground like all the other jacks, I had to create a plastic end plate to keep it electrically isolated.
 
 ![Finished IC-705 End Plate](finished-1.jpeg)
 
