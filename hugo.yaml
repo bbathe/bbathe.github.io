@@ -1,5 +1,5 @@
 baseURL: "https://ad8fd.com/"
-languageCode: "en-us"
+locale: "en-US"
 title: "AD8FD"
 theme: "PaperMod"
 
