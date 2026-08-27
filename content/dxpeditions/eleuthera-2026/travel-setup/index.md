@@ -8,32 +8,32 @@ tags:
   - operating
 ---
 
-Travel logistics went largely as planned. The station was divided into three bags: a Pelican 1535 carry‑on for all critical electronics, a small personal bag for the laptop and accessories, and a Pelican 1615 checked bag for antennas, mast, coax, and tools. Keeping the radio and amplifier with me eliminated any anxiety about loss or damage in transit.
+I flew with the same three bags I packed at home: Pelican 1535 carry-on for the radio and amp, a personal bag for the laptop and small stuff, and a Pelican 1615 checked with the antenna, mast, coax, and tools. The IC-705 and JUMA stayed with me. I was not checking those.
 
 ![Luggage](luggage.jpeg)
 
-Airline and airport handling were uneventful. I received questions about the radio equipment during security screening, but ultimately passed through smoothly. Once on Eleuthera, the rental car was waiting, transit to the cottage was straightforward, and all gear arrived intact.
+Security had questions about the radio gear. I got through. On Eleuthera the rental car was waiting, I drove to the cottage, and everything showed up in one piece.
 
-## First Look at the QTH
+## First look at the QTH
 
-Upon arrival, the first order of business was assessing the available space. The cottage had reasonable outdoor area, but like many rental properties, antenna placement options were more constrained than they first appeared. Power lines were present nearby, and the house itself sat closer to the usable antenna area than ideal.
+The cottage has some outdoor space, but once I walked it, antenna options were tighter than they looked from the pics. Power lines nearby, and the house sits closer to the only decent antenna area than I'd like.
 
-At this point, the goal was simply to get everything assembled and on the air, then adjust as necessary based on real‑world behavior rather than assumptions.
+I decided to get on the air first and move things if I had to.
 
-## Antenna Deployment
+## Antenna
 
-The multiband vertical for 40, 20, 15, and 10 meters was deployed on a Spiderbeam mast not far from the cottage. Radials were installed, and initial SWR results were acceptable across all bands.
+I put the 40, 20, 15, and 10 meter vertical up on the Spiderbeam mast not far from the cottage, laid radials, and SWR was fine on all four bands.
 
 ![Antenna](antenna.jpeg)
 
-## Station Assembly
+## Station
 
-With the antenna in place, station assembly went smoothly. The IC‑705, JUMA PA‑1000+, and support equipment were up and running quickly, with all interconnections behaving exactly as tested at home. From opening the first case to a powered‑on station took about an hour.
+With the antenna up, the IC-705, JUMA PA-1000+, and the rest went together the same way they did at home. First case open to a live station: about an hour.
 
 ![Station](radio.jpeg)
 
-The radio configuration and logging environment were already dialed in before departure, which helped keep initial setup focused on physical layout rather than software troubleshooting.
+Radio config and logging were already set before I left, so this part was just the physical layout.
 
 ## First QSOs
 
-With the station operational, initial contacts came quickly. Digital modes were used first to confirm transmit and receive performance, and early results were encouraging. The combination of location, antenna, and timing produced strong responses on the air, confirming that the basic setup was sound.
+I started on digital to make sure TX and RX were actually working. Contacts came quickly. The basic setup works.

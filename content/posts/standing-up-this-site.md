@@ -9,53 +9,21 @@ tags:
   - papermod
 ---
 
-I wanted a home for my amateur radio stories that was:
+I wanted a home for my amateur radio stories that was fast, mostly text with a few pics, version-controlled like code, and cheap to keep running.
 
-- Fast and simple
-- Text-first, with a few photos
-- Version-controlled like code
-- Cheap and low-maintenance
-
-So instead of spinning up WordPress or using a hosted blog platform, I went with a static site stack:
+So I skipped WordPress. The stack is:
 
 - **Hugo** as the static site generator
 - **PaperMod** as the theme
 - **GitHub Pages** for hosting
 - **Git** as the publishing workflow
 
-## Why Hugo?
+Hugo is written in Go. Markdown and templates in, HTML out. Content is just files in a repo, builds are fast, and I can keep sections straight:
 
-Hugo is a static site generator written in Go. It takes Markdown files and template files and turns them into a plain HTML site.
+- `/dxpeditions/eleuthera-2026/`
+- `/posts/`
+- `/about/`
 
-What I like for this use case:
+PaperMod is a simple theme. Clean type, readable posts. I didn't want a heavy portfolio look or a dark terminal look.
 
-- Content is just **Markdown files in a repo**.
-- Builds are **fast**.
-- It handles sections nicely:
-  - `/dxpeditions/eleuthera-2026/`
-  - `/posts/`
-  - `/about/`
-- Easy to keep things organized by trip, date, and type.
-
-## Why PaperMod?
-
-PaperMod is a minimalist Hugo theme with:
-
-- Clean typography
-- Simple, readable post layout
-- Light theme that feels optimistic and uncluttered
-
-I didn’t want a heavy “portfolio” theme or a dark, terminal-like look. PaperMod is right in the middle: simple, modern, no nonsense.
-
-## Why GitHub Pages?
-
-GitHub Pages gives me:
-
-- Free hosting for a static site
-- Automatic builds via **GitHub Actions**
-- A natural workflow:
-  - `git commit`
-  - `git push`
-  - site updates
-
-There’s no database, no patching, no admin UI to babysit. Everything that matters lives in the repo.
+GitHub Pages is free, GitHub Actions builds it, and the workflow is `git commit`, `git push`, site updates. No database, no patching, no admin UI to babysit. Everything that matters lives in the repo.
