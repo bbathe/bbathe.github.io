@@ -4,7 +4,7 @@ title: "AD8FD"
 theme: "PaperMod"
 
 pagination:
-  pagerSize: 10
+  pagerSize: 5
 
 params:
   defaultTheme: "light"
