@@ -1,5 +1,5 @@
 ---
-date: '2026-04-18T00:00:00-04:00'
+date: '2026-08-26T21:21:00-05:00'
 draft: false
 title: "A Shared Board for Weather Net Reports"
 summary: "I built WXNetMan for Warren County AuxComm weather nets: a shared board so the team can see report status without changing the radio side."
