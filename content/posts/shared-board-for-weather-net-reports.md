@@ -10,7 +10,7 @@ tags:
   - serverless
 ---
 
-I've been doing AuxComm in Warren County, Ohio for a while now. On a busy Weather net, Net Control is on the radio and the rest of us are trying to remember which reports are new, who is working which one, and what already went to NWS or the county EMA.
+I've been doing AuxComm in Warren County, Ohio for a while now. On a busy weather net, Net Control is on the radio and the rest of us are trying to remember which reports are new, who is working which one, and what already went to NWS or the county EMA.
 
 Paper logs, spreadsheets, and chat threads can work when things are slow, but they fall apart fast when reports come in faster than one person can type. We'd end up with two people on the same report, or nobody on it because everyone assumed someone else had it. I also wasn't happy with what we were sending to NWS and the county EMA. I wanted it checked, assigned, and actually finished, not a pile of duplicates.
 
@@ -52,4 +52,4 @@ When a report moves, a broadcaster pushes an event to whoever is connected on th
 
 This isn't a replacement for Net Control on the radio. We're still taking reports on frequency. Slack isn't where we take traffic, and I can't make EMA actually read the email.
 
-If your net has the same problem we had — AuxComm, ARES/RACES, SKYWARN — there's more at [wxnetman.com](https://wxnetman.com/), and you can [email me](https://wxnetman.com/contact.html) if you want to try it. Access is invite-only. If you're already invited, [sign in](https://app.wxnetman.com). Service status is at [uptime.wxnetman.com](https://uptime.wxnetman.com).
+If your net has the same problem we had — AuxComm, ARES/RACES, SKYWARN — there's more at [wxnetman.com](https://wxnetman.com/), and you can email me at [bbathe@willyboy.com](mailto:bbathe@willyboy.com) if you want to try it. Access is invite-only. If you're already invited, [sign in](https://app.wxnetman.com). Service status is at [uptime.wxnetman.com](https://uptime.wxnetman.com).
