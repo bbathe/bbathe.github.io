@@ -29,7 +29,6 @@ params:
     publisherType: Person
     sameAs:
       - "https://www.qrz.com/db/AD8FD"
-      - "https://x.com/bbathe"
 
   mainSections:
     - posts
