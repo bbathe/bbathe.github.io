@@ -2,6 +2,7 @@ baseURL: "https://ad8fd.com/"
 locale: "en-US"
 title: "AD8FD"
 theme: "PaperMod"
+enableRobotsTXT: true
 
 pagination:
   pagerSize: 5
@@ -56,5 +57,4 @@ menu:
       weight: 4
 
 taxonomies:
-  category: categories
   tag: tags

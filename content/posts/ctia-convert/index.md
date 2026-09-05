@@ -2,7 +2,7 @@
 date: '2026-04-18T08:47:19-04:00'
 draft: false
 title: "CTIA Headset and Foot Pedal Interface for the IC-705"
-Summary: "Building a converter box to use CTIA wired headsets and a foot pedal with my radios"
+summary: "Building a converter box to use CTIA wired headsets and a foot pedal with my radios"
 tags:
   - headset
   - projects
