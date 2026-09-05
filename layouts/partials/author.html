@@ -1,0 +1,10 @@
+{{- $author := (.Params.author | default site.Params.author) }}
+{{- with $author }}
+  {{- if reflect.IsMap . }}
+    {{- with .name }}{{ . }}{{ end }}
+  {{- else if or (eq (printf "%T" .) "[]string") (eq (printf "%T" .) "[]interface {}") }}
+    {{- delimit . ", " }}
+  {{- else }}
+    {{- . }}
+  {{- end }}
+{{- end -}}

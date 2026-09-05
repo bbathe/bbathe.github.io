@@ -7,6 +7,10 @@ tags:
   - headset
   - projects
   - homebrew
+cover:
+  image: circuit-irl.jpeg
+  relative: true
+  hidden: true
 ---
 
 I've been using wired CTIA headsets on the radio. Phone headsets, basically. They're light, easy to find, and better than I expected for portable work.

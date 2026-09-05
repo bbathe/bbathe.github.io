@@ -6,6 +6,10 @@ summary: "Getting to the QTH and station setup"
 tags:
   - setup
   - operating
+cover:
+  image: antenna.jpeg
+  relative: true
+  hidden: true
 ---
 
 I flew with the same three bags I packed at home: Pelican 1535 carry-on for the radio and amp, a personal bag for the laptop and small stuff, and a Pelican 1615 checked with the antenna, mast, coax, and tools. The IC-705 and JUMA stayed with me. I was not checking those.
