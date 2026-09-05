@@ -78,4 +78,4 @@ And then all the little stuff that isn't radio but I'd be unhappy without.
 
 I attached a water bottle holder on the GR1, it stays empty until after I get thru TSA.
 
-The bag ends up heavy at 23 lbs., everytime I have tried to reduce gear (table, chair, etc.) I've regretted it more than the trouble of lugging it around so it stays.
+The bag ends up heavy at 25 lbs., everytime I have tried to reduce gear (table, chair, etc.) I've regretted it more than the trouble of lugging it around so it stays.
