@@ -68,12 +68,14 @@ And then all the little stuff that isn't radio but I'd be unhappy without.
 - Sweat rag
 - Aspirin, antacid, salt pills, etc.
 - DUDE Wipes
-- Headlamp
+- Headlamp & AA batteries
 - Lighter
-- Watch
+- Watch, set to UTC
 - Readers
 - Screwdriver, pliers, and scissors
 - Sunglasses
 - Hat
 
-I attached a water bottle holder on the GR1, it stays empty until after I get thru TSA.  It's heavy at 23 lbs., everytime I have tried to reduce gear (table, chair, etc.) I've regretted it more than the trouble of lugging it around so it stays.
+I attached a water bottle holder on the GR1, it stays empty until after I get thru TSA.
+
+The bag ends up heavy at 23 lbs., everytime I have tried to reduce gear (table, chair, etc.) I've regretted it more than the trouble of lugging it around so it stays.
