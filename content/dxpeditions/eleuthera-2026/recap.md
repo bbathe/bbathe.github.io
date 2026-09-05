@@ -4,9 +4,8 @@ draft: false
 title: 'DXpedition Report'
 summary: "First DXpedition. Close to 6,000 QSOs. The IC-705, JUMA PA-1000+, and the vertical did the job."
 tags:
-  - recap
-  - eleuthera-2026
   - C6
+  - Eleuthera
 ---
 Tonight is my last night in Eleuthera. The station is down and packed. Early flight tomorrow. Writing this while it's still in my head.
 

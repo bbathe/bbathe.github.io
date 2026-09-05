@@ -4,7 +4,7 @@ draft: false
 title: "Additional Callsigns"
 summary: "How to add your additional callsigns across all the various system we use in amateur radio."
 tags:
-  - planning
+  - callsigns
 ---
 
 ## Adding a New Callsign Before the Next Trip

@@ -5,8 +5,8 @@ title: "Planning"
 summary: "Stuck on where to go. Joe pointed at C6. Spring break lined up with CQ WPX."
 tags:
   - planning
-  - eleuthera-2026
   - C6
+  - Eleuthera
 ---
 
 ## A little help from my friends

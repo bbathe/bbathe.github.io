@@ -4,10 +4,8 @@ draft: false
 title: 'Travel & Station Setup'
 summary: "Bags made it. Antenna up, station live, first QSOs the same day."
 tags:
-  - setup
-  - operating
-  - eleuthera-2026
   - C6
+  - Eleuthera
 cover:
   image: antenna.jpeg
   relative: true

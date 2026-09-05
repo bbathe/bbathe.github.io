@@ -4,9 +4,8 @@ draft: false
 title: 'Packing'
 summary: "IC-705, JUMA PA-1000+, and a 40–10m vertical in three bags."
 tags:
-  - packing
-  - eleuthera-2026
   - C6
+  - Eleuthera
 ---
 Departure is close. Everything is assembled, powered, and running at home. It has to survive the airline, and I don't want a pile of bags.
 

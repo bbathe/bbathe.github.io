@@ -5,7 +5,6 @@ title: "CTIA Headset and Foot Pedal Interface for the IC-705"
 summary: "Building a converter box to use CTIA wired headsets and a foot pedal with my radios"
 tags:
   - headset
-  - projects
   - homebrew
 cover:
   image: circuit-irl.jpeg

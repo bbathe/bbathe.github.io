@@ -5,9 +5,8 @@ title: "License in Hand"
 summary: "Bahamas license came through: C6AFD."
 tags:
   - planning
-  - license
-  - eleuthera-2026
   - C6
+  - Eleuthera
 ---
 After applying back in November, my Bahamas license finally came through: **C6AFD**.
 

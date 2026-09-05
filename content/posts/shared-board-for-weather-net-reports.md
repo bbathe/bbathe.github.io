@@ -7,7 +7,6 @@ tags:
   - skywarn
   - emcomm
   - wxnetman
-  - serverless
 showtoc: true
 ---
 

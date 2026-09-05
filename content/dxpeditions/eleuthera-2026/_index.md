@@ -5,7 +5,6 @@ title: 'Eleuthera 2026 DXpedition'
 summary: "C6AFD, March 24–31, 2026."
 tags:
   - DXpedition
-  - Bahamas
   - C6
   - Eleuthera
 ---
