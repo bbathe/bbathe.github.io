@@ -9,9 +9,9 @@ Confirmations are on LoTW and Club Log.
 
 ## Callsigns
 
-- [**AD8FD**](https://www.qrz.com/db/AD8FD) — [Club Log](https://clublog.org/logsearch/AD8FD)
-- [**LU/AD8FD**](https://www.qrz.com/db/LU/AD8FD) — [Club Log](https://clublog.org/logsearch/LU/AD8FD)
-- [**C6AFD**](https://www.qrz.com/db/C6AFD) — [Club Log](https://clublog.org/logsearch/C6AFD)
+- **AD8FD:** [QRZ](https://www.qrz.com/db/AD8FD), [Club Log](https://clublog.org/logsearch/AD8FD)
+- **LU/AD8FD:** [QRZ](https://www.qrz.com/db/LU/AD8FD), [Club Log](https://clublog.org/logsearch/LU/AD8FD)
+- **C6AFD:** [QRZ](https://www.qrz.com/db/C6AFD), [Club Log](https://clublog.org/logsearch/C6AFD)
 
 ## Policy
 
