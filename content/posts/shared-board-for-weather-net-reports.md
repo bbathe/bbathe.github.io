@@ -8,6 +8,7 @@ tags:
   - emcomm
   - wxnetman
   - serverless
+showtoc: true
 ---
 
 I've been doing AuxComm in Warren County, Ohio for a while now. On a busy weather net, Net Control is on the radio and the rest of us are trying to remember which reports are new, who is working which one, and what already went to NWS or the county EMA.
