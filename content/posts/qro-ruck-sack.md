@@ -4,7 +4,7 @@ draft: false
 title: 'QRO Ruck Sack'
 summary: "The bag I take to most POTA activations. It's been on airplanes and on the air during work trips."
 tags:
-  - pota
+  - POTA
 ---
 
 I've been doing a lot of POTA, and I got tired of building a different pile of gear every time I left the house. I also travel for work, and I've taken this through airports more than once. So this is the bag I keep packed: a [GORUCK GR1 26L](https://www.goruck.com/products/gr1-usa).
