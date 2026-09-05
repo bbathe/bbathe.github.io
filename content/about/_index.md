@@ -7,6 +7,6 @@ summary: 'Brian Bathe, amateur radio operator AD8FD.'
 
 Hello, I am Brian Bathe, amateur radio operator AD8FD.
 
-I enjoy Chasing DX & Portable operating.
+Home QTH is Southwest Ohio, near Cincinnati.
 
 This site is where I collect notes and stories from my adventures, along with occasional posts about radios, antennas, and operating from the field.
