@@ -1,1 +1,11 @@
-<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if or (strings.HasPrefix .Destination "http") (strings.HasPrefix .Destination "https") }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- $dest := urls.Parse (strings.TrimSpace .Destination) -}}
+{{- $site := urls.Parse site.BaseURL -}}
+{{- $destHost := strings.ToLower $dest.Host -}}
+{{- $siteHost := strings.ToLower $site.Host -}}
+{{- $web := or (eq $dest.Scheme "http") (eq $dest.Scheme "https") (and (eq $dest.Scheme "") (ne $destHost "")) -}}
+{{- $external := and $web (ne $destHost $siteHost) -}}
+<a href="{{ .Destination | safeURL }}"
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  {{- if $external }} target="_blank" rel="noopener noreferrer"{{ end -}}
+>{{- with .Text }}{{ . }}{{ end -}}</a>
+{{- /* chomp trailing newline */ -}}
