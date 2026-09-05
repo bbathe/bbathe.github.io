@@ -31,13 +31,13 @@ Some of my portable trips overlap with parks, so it’s better to have this sort
 
 Once you touch [QRZ](https://www.qrz.com/), the whole ecosystem starts noticing: [DX‑World](https://www.dx-world.net/), [Daily DX](https://www.dailydx.com/), [DX News](https://dxnews.com/), all of it. So timing matters.
 
-- ### Suffix/Prefix Callsigns  
+- **Suffix/Prefix Callsigns**  
   For operating variations like `/P`, `/4`, `/VE3`, or similar, these get added under:  
   **Account → Secondary Callsigns**
 
   This keeps all your derivative calls linked properly to your main profile.
 
-- ### Newly Issued Callsigns  
+- **Newly Issued Callsigns**  
   If the callsign is actually *issued to you*, it goes under:  
   **Account → Managed Callsigns**
 

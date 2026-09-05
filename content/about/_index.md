@@ -2,6 +2,7 @@
 date: '2025-12-22T11:28:48-05:00'
 draft: false
 title: 'About'
+summary: 'Brian Bathe, amateur radio operator AD8FD.'
 ---
 
 Hello, I am Brian Bathe, amateur radio operator AD8FD.

@@ -2,6 +2,7 @@
 date: '2025-12-22T11:34:02-05:00'
 draft: false
 title: 'QSL'
+summary: 'LoTW, Club Log, QRZ, and POTA. No eQSL, bureau, or direct.'
 ---
 
 ## QSL Policy
