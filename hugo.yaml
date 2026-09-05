@@ -56,5 +56,10 @@ menu:
       url: /qsl/
       weight: 4
 
+    - identifier: feed
+      name: Feed
+      url: /index.xml
+      weight: 5
+
 taxonomies:
   tag: tags

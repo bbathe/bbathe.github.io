@@ -2,7 +2,7 @@
 date: '2025-12-22T11:55:51-05:00'
 draft: false
 title: 'Eleuthera 2026 DXpedition'
-summary: "HF DXing from Eleuthera, Bahamas."
+summary: "C6AFD, March 24–31, 2026."
 tags:
   - DXpedition
   - Bahamas
