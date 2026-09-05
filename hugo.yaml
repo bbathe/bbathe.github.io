@@ -20,7 +20,6 @@ params:
     Content: "Logs, notes, and stories from my amateur radio adventures."
 
   mainSections:
-    - dxpeditions
     - posts
 
 menu:

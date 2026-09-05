@@ -1,0 +1,10 @@
+{{- /*
+  Home / RSS / prev-next set: standalone posts plus each DXpedition
+  section page. Diary leaves stay on the expedition page only.
+*/ -}}
+{{- $posts := where site.RegularPages "Type" "eq" "posts" -}}
+{{- $trips := slice -}}
+{{- with site.GetPage "/dxpeditions" -}}
+  {{- $trips = .Sections -}}
+{{- end -}}
+{{- return ($posts | union $trips).ByDate.Reverse -}}

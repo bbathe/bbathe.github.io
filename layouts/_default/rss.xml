@@ -12,8 +12,10 @@
 {{- $pctx := . }}
 {{- if .IsHome }}{{ $pctx = site }}{{ end }}
 {{- $pages := slice }}
-{{- if or $.IsHome $.IsSection }}
-{{- $pages = $pctx.RegularPages }}
+{{- if $.IsHome }}
+{{- $pages = partial "main_stream.html" . }}
+{{- else if $.IsSection }}
+{{- $pages = $pctx.RegularPages | union $pctx.Sections }}
 {{- else }}
 {{- $pages = $pctx.Pages }}
 {{- end }}
