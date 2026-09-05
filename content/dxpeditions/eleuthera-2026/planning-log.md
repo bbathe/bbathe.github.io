@@ -1,8 +1,8 @@
 ---
 date: '2025-12-22T12:02:53-05:00'
 draft: false
-title: "Eleuthera 2026 Planning"
-summary: "The origin story and early logistics for my first DXpedition."
+title: "Planning"
+summary: "Stuck on where to go. Joe pointed at C6. Spring break lined up with CQ WPX."
 tags:
   - planning
   - eleuthera-2026

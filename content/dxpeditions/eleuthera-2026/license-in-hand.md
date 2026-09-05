@@ -2,9 +2,12 @@
 date: '2026-01-29T11:26:21-05:00'
 draft: false
 title: "License in Hand"
-summary: "Yes! My Bahamas license finally came through."
+summary: "Bahamas license came through: C6AFD."
 tags:
   - planning
+  - license
+  - eleuthera-2026
+  - C6
 ---
 After applying back in November, my Bahamas license finally came through: **C6AFD**.
 

@@ -1,11 +1,12 @@
 ---
 date: '2026-03-13T14:03:44-04:00'
 draft: false
-title: 'Packing & Setup'
-summary: "Packing and equipment notes for my Eleuthera 2026 operation."
+title: 'Packing'
+summary: "IC-705, JUMA PA-1000+, and a 40–10m vertical in three bags."
 tags:
   - packing
-  - setup
+  - eleuthera-2026
+  - C6
 ---
 Departure is close. Everything is assembled, powered, and running at home. It has to survive the airline, and I don't want a pile of bags.
 

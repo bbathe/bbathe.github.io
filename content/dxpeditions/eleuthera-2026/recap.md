@@ -1,10 +1,12 @@
 ---
 date: '2026-03-30T18:50:00-04:00'
 draft: false
-title: 'Eleuthera 2026 Recap'
-summary: "Final DXpedition report"
+title: 'DXpedition Report'
+summary: "First DXpedition. Close to 6,000 QSOs. The IC-705, JUMA PA-1000+, and the vertical did the job."
 tags:
   - recap
+  - eleuthera-2026
+  - C6
 ---
 Tonight is my last night in Eleuthera. The station is down and packed. Early flight tomorrow. Writing this while it's still in my head.
 
@@ -22,6 +24,6 @@ March 29 was one of the highlights. Overnight I got an email from [JR7HAN](https
 
 March 30 I did a POTA activation of BS-0044 at the Queen's Baths. Spectacular spot. The Atlantic was putting on a show. Rain on and off, and I still got the 13 contacts. Packed up completely soaked. Back at the QTH I ran FT8 and FT4 for a bit around 1900 UTC, then tore the station down for good. Last QSO at 2054 UTC.
 
-First DXpedition. Close to 6000 QSOs. The IC-705, JUMA PA-1000+, and the vertical did the job.
+First DXpedition. Close to 6,000 QSOs. The IC-705, JUMA PA-1000+, and the vertical did the job.
 
 I can't wait until the next one.

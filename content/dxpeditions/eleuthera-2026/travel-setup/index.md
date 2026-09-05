@@ -2,10 +2,12 @@
 date: '2026-03-24T17:07:55-04:00'
 draft: false
 title: 'Travel & Station Setup'
-summary: "Getting to the QTH and station setup"
+summary: "Bags made it. Antenna up, station live, first QSOs the same day."
 tags:
   - setup
   - operating
+  - eleuthera-2026
+  - C6
 cover:
   image: antenna.jpeg
   relative: true
