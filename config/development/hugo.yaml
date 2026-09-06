@@ -1,0 +1,2 @@
+# hugo server uses environment "development". Production CI does not.
+buildDrafts: true

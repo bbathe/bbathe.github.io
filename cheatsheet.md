@@ -8,7 +8,9 @@ Preview:
 hugo server
 ```
 
-Open http://localhost:1313/. Production omits `draft: true`. `hugo server` shows drafts.
+Open http://localhost:1313/. `hugo server` is the development environment, which includes `draft: true`. Production (`hugo` on GitHub Actions) omits drafts.
+
+If a new picture in a bundle does not show, stop the server and start it again from the repo root.
 
 Publish:
 
@@ -185,7 +187,7 @@ Do not tag the page role (`recap`, `packing`, `setup`). Do not put `planning` on
 | `title` | H1, tab (`Title \| AD8FD`), list card, prev/next |
 | `summary` | List card and RSS description |
 | `date` | Sort order on Home / lists / RSS |
-| `draft: true` | Local preview only; production build skips it |
+| `draft: true` | `hugo server` shows it. Production build skips it. Flip to `false` before you want it on ad8fd.com. |
 | `tags` | Chips + `/tags/…` pages |
 | `cover` | Optional; see image bundle |
 | `showtoc: true` | Table of contents on that page |
